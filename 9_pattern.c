@@ -8,6 +8,7 @@ int main()
 }
     void printPattern(int n){
         if (n==1){
+            
             printf("*\n");
             return ;
         }
